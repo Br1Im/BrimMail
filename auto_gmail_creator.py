@@ -1,3 +1,8 @@
+# Auto Gmail Creator v1.1.0
+# Автоматический создатель Gmail аккаунтов
+# by BRIM, 2024
+# https://github.com/YOURUSERNAME/Auto-Gmail-Creator
+
 # Display the banner at the beginning
 print("""
 ===================================================
