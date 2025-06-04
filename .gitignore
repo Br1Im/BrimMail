@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Debug screenshots
+debug_screenshot_*.png
+qr_code_*.png
+
+# Cookies
+cookies/
+
+# Generated accounts
+emails.txt
+
+# Log files
+*.log 
